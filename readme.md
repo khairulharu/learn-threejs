@@ -5,6 +5,14 @@ design, but maybe wee need more effor to learn web3d from scracth because a lot 
 
 SELAMAT BELAJAR
 
+USING this command to run this project 
+
+```
+npx vite
+```
+
+
+
 I will documenting all what i did and learn at this file, so maybe you can find something intresting.
 
 First you have to do is install or add three js to your project and you can now got to the official website 
