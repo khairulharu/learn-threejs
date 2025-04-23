@@ -10,8 +10,6 @@ function main() {
     canvas
   })
 
-  renderer.setSize(window.innerWidth/2, window.innerHeight/2)
-
   const fov = 75;
   const aspect = 2;
   const near = 0.1;
